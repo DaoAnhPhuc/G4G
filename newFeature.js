@@ -1,1 +1,1 @@
-console.log("Hello guys, welcome to G4G");
+console.log("Hello Phuc, welcome to G4G");
